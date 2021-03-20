@@ -1,3 +1,4 @@
 # Android-studio 开发教程
 ## 目录
-> android project 结构说明
+> AndroidManifest 文件
+> 1. 简单说明
