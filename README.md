@@ -2,4 +2,4 @@
 ## 目录
 ### 1. AndroidManifest 文件
 > 1. 简单说明
-> 2. Activity注册(https://www.baidu.com)
+> 2. [Activity注册](https://www.baidu.com)
